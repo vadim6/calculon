@@ -1,0 +1,30 @@
+# Local machine
+local.properties
+*.local.properties
+
+# Build outputs
+build/
+app/build/
+.gradle/
+captures/
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Kotlin
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystore / signing
+*.jks
+*.keystore
+*.p12
+
+# Credentials / secrets
+google-services.json
